@@ -1,0 +1,9 @@
+path: D:/Project/boring_reader/yolo/borhole_regions_dataset  # root dir
+train: images/train
+val: images/val
+
+nc: 3
+names:
+  0: header_region
+  1: soil_region
+  2: spt_region

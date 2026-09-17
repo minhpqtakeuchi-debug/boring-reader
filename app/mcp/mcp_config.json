@@ -1,0 +1,14 @@
+
+{
+  "mcpServers": {
+    "boring-batch-mcp": {
+      "enabled": true,
+      "transport": "stdio",
+      "command": "python",
+      "args": [
+        "mcp/boring_reader_server.py"
+      ],
+      "description": "Boring PDF File Reader and Automatic Json Extractor"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# Light augmentations for document-like images
+degrees: 5.0        # small rotation
+scale: 0.1
+shear: 0.0
+flipud: 0.0         # usually no vertical flip for documents
+fliplr: 0.0         # left-right flip might be okay; disable if you don't like it
+# You can add more later if needed

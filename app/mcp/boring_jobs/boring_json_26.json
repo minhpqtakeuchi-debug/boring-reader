@@ -1,0 +1,1911 @@
+{
+  "borelog": [
+    {
+      "header_info": {
+        "investigation_name": "(仮称)ネクステージ和歌山2　地質調査",
+        "project_name": null,
+        "borehole_no": "No.1",
+        "sheet_no": null,
+        "location": "和歌山県和歌山市小雑賀７４８",
+        "client": "株式会社　ネクステージ",
+        "contractor": "株式会社　トラバース",
+        "chief_engineer": "三岡　誠",
+        "investigation_period_start": "2021-07-26",
+        "investigation_period_end": "2021-07-29",
+        "collar_elevation_el_m": 0.35,
+        "total_depth_m": 50.5,
+        "drilling_machine": "YBM-05DA-2CH型",
+        "engine": "ヤンマーNS95",
+        "hammer_device": "自動落下装置",
+        "pump": "カノ-V-5P"
+      },
+      "soil_layers": [
+        {
+          "start_depth_m": 0,
+          "end_depth_m": 3.7,
+          "layer_thickness_m": 3.7,
+          "soil_classification": "盛土",
+          "color": "黒灰～淡黄灰～淡灰",
+          "description": "アスファルト。\nGL-0.03m以深、細、中砂主体。φ20mm内の角礫、亜角礫混入。\nφ100mm内の玉石点在。\nGL-1.50m以深、細砂主体。礫及び部分的に少量のシルト混入。腐植物点在。"
+        },
+        {
+          "start_depth_m": 3.7,
+          "end_depth_m": 6.75,
+          "layer_thickness_m": 3.05,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。含水量少ない。\nGL-6.00m付近、貝殻点在。"
+        },
+        {
+          "start_depth_m": 6.75,
+          "end_depth_m": 8.9,
+          "layer_thickness_m": 2.15,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体、全体にシルト含有。貝殻点在。含水量少ない。"
+        },
+        {
+          "start_depth_m": 8.9,
+          "end_depth_m": 9.8,
+          "layer_thickness_m": 0.9,
+          "soil_classification": "シルト混り砂",
+          "color": "淡灰",
+          "description": "細砂主体、部分的にシルト混入。貝殻点在。含水量少ない。"
+        },
+        {
+          "start_depth_m": 9.8,
+          "end_depth_m": 12.75,
+          "layer_thickness_m": 2.95,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "粘性弱い。全体に細砂含有。貝殻点在。"
+        },
+        {
+          "start_depth_m": 12.75,
+          "end_depth_m": 18.85,
+          "layer_thickness_m": 6.1,
+          "soil_classification": "シルト質粘土",
+          "color": "淡灰",
+          "description": "粘性中位。\n全体にシルト含有。\n貝殻点在。"
+        },
+        {
+          "start_depth_m": 18.85,
+          "end_depth_m": 19.65,
+          "layer_thickness_m": 0.8,
+          "soil_classification": "有機質粘土",
+          "color": "暗茶灰",
+          "description": "粘性中位。全体に有機質土含有。"
+        },
+        {
+          "start_depth_m": 19.65,
+          "end_depth_m": 20.6,
+          "layer_thickness_m": 0.95,
+          "soil_classification": "シルト質粘土",
+          "color": "灰",
+          "description": "粘性中位。全体にシルト含有。少量の腐植物点在。"
+        },
+        {
+          "start_depth_m": 20.6,
+          "end_depth_m": 21.35,
+          "layer_thickness_m": 0.75,
+          "soil_classification": "有機質粘土",
+          "color": "暗茶灰",
+          "description": "粘性中位。全体に有機質土含有。全体に細砂混入。"
+        },
+        {
+          "start_depth_m": 21.35,
+          "end_depth_m": 21.8,
+          "layer_thickness_m": 0.45,
+          "soil_classification": "礫混り砂",
+          "color": "淡灰",
+          "description": "細、中砂主体。部分的にφ20mm内の角礫、亜角礫混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 21.8,
+          "end_depth_m": 22.1,
+          "layer_thickness_m": 0.3,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "粘性弱い。全体に細砂含有。腐植物点在。"
+        },
+        {
+          "start_depth_m": 22.1,
+          "end_depth_m": 23.75,
+          "layer_thickness_m": 1.65,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。少量の腐植物点在。含水量少ない。\nGL-23.00m付近、貝殻点在。"
+        },
+        {
+          "start_depth_m": 23.75,
+          "end_depth_m": 25.8,
+          "layer_thickness_m": 2.05,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "粘性弱い。全体に細砂含有。腐植物点在。"
+        },
+        {
+          "start_depth_m": 25.8,
+          "end_depth_m": 31.75,
+          "layer_thickness_m": 5.95,
+          "soil_classification": "シルト質粘土",
+          "color": "淡灰",
+          "description": "粘性中位。\n全体にシルト含有。\nGL-30.00m付近、φ2mm内の細礫点在。\nGL-31.45～31.75m、礫混り砂挟在。"
+        },
+        {
+          "start_depth_m": 31.75,
+          "end_depth_m": 32.65,
+          "layer_thickness_m": 0.9,
+          "soil_classification": "砂混り粘土",
+          "color": "淡灰",
+          "description": "粘性弱い。部分的に細砂混入。"
+        },
+        {
+          "start_depth_m": 32.65,
+          "end_depth_m": 33.2,
+          "layer_thickness_m": 0.55,
+          "soil_classification": "砂質シルト",
+          "color": "淡青灰",
+          "description": "粘性弱い。全体に細砂含有。"
+        },
+        {
+          "start_depth_m": 33.2,
+          "end_depth_m": 33.8,
+          "layer_thickness_m": 0.6,
+          "soil_classification": "粘土混り砂礫",
+          "color": "淡青灰",
+          "description": "砂は細、中砂。φ20mm内の角礫、亜円礫主体。部分的に粘土混入。\n含水量少ない。"
+        },
+        {
+          "start_depth_m": 33.8,
+          "end_depth_m": 38.75,
+          "layer_thickness_m": 4.95,
+          "soil_classification": "砂礫",
+          "color": "淡灰～暗青灰",
+          "description": "砂は細、中砂。\nφ30mm内の角礫、亜円礫主体。\n含水量少～中位。\nGL-38.00m付近、砂は中、粗砂。"
+        },
+        {
+          "start_depth_m": 38.75,
+          "end_depth_m": 39.8,
+          "layer_thickness_m": 1.05,
+          "soil_classification": "礫混り砂",
+          "color": "暗青灰",
+          "description": "細、中砂主体。不規則にφ20mm内の角礫、亜角礫混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 39.8,
+          "end_depth_m": 40.65,
+          "layer_thickness_m": 0.85,
+          "soil_classification": "シルト混り砂",
+          "color": "淡灰",
+          "description": "細、中砂主体。部分的にシルト混入。\n少量の腐植物及びφ10mm内の亜角礫点在。含水量少ない。"
+        },
+        {
+          "start_depth_m": 40.65,
+          "end_depth_m": 42.25,
+          "layer_thickness_m": 1.6,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。含水量少ない。"
+        },
+        {
+          "start_depth_m": 42.25,
+          "end_depth_m": 42.7,
+          "layer_thickness_m": 0.45,
+          "soil_classification": "礫混り砂",
+          "color": "淡灰",
+          "description": "細、中砂主体。部分的にφ10mm内の角礫、亜角礫混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 42.7,
+          "end_depth_m": 45.25,
+          "layer_thickness_m": 2.55,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。含水量少ない。\nGL-44.00m以深、腐植物点在。"
+        },
+        {
+          "start_depth_m": 45.25,
+          "end_depth_m": 46.45,
+          "layer_thickness_m": 1.2,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。含水量少ない。"
+        },
+        {
+          "start_depth_m": 46.45,
+          "end_depth_m": 47.25,
+          "layer_thickness_m": 0.8,
+          "soil_classification": "粘土質砂",
+          "color": "淡灰",
+          "description": "細、中砂主体。全体に粘土含有。φ10mm内の亜角礫点在。含水量少ない。"
+        },
+        {
+          "start_depth_m": 47.25,
+          "end_depth_m": 48.3,
+          "layer_thickness_m": 1.05,
+          "soil_classification": "シルト混り砂",
+          "color": "淡灰",
+          "description": "細砂主体。部分的にシルト混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 48.3,
+          "end_depth_m": 48.85,
+          "layer_thickness_m": 0.55,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。含水量少ない。"
+        },
+        {
+          "start_depth_m": 48.85,
+          "end_depth_m": 49.75,
+          "layer_thickness_m": 0.9,
+          "soil_classification": "シルト混り砂",
+          "color": "淡灰",
+          "description": "細砂主体。部分的にシルト混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 49.75,
+          "end_depth_m": 50.5,
+          "layer_thickness_m": 0.75,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。含水量少ない。"
+        }
+      ],
+      "spt_tests": [
+        {
+          "test_depth_range_m": [
+            1.15,
+            1.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 9
+        },
+        {
+          "test_depth_range_m": [
+            2.15,
+            2.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            3.15,
+            3.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            4.15,
+            4.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 8
+        },
+        {
+          "test_depth_range_m": [
+            5.15,
+            5.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 10
+        },
+        {
+          "test_depth_range_m": [
+            6.15,
+            6.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 4,
+          "blow_counts_20_30cm": 5,
+          "penetration_cm": 30,
+          "n_value": 13
+        },
+        {
+          "test_depth_range_m": [
+            7.15,
+            7.45
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            15
+          ],
+          "blow_counts_10_20cm": [
+            1,
+            15
+          ],
+          "blow_counts_20_30cm": 30,
+          "penetration_cm": 30,
+          "n_value": 2
+        },
+        {
+          "test_depth_range_m": [
+            8.15,
+            8.45
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            15
+          ],
+          "blow_counts_10_20cm": [
+            1,
+            15
+          ],
+          "blow_counts_20_30cm": 30,
+          "penetration_cm": 30,
+          "n_value": 2
+        },
+        {
+          "test_depth_range_m": [
+            9.15,
+            9.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            10.15,
+            10.5
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            35
+          ],
+          "blow_counts_10_20cm": 35,
+          "blow_counts_20_30cm": 35,
+          "penetration_cm": 35,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            11.15,
+            11.5
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            35
+          ],
+          "blow_counts_10_20cm": 35,
+          "blow_counts_20_30cm": 35,
+          "penetration_cm": 35,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            12.15,
+            12.45
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            30
+          ],
+          "blow_counts_10_20cm": 30,
+          "blow_counts_20_30cm": 30,
+          "penetration_cm": 30,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            13.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            14.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            15.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            16.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            17.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            18.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            19.15,
+            19.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 8
+        },
+        {
+          "test_depth_range_m": [
+            20.15,
+            20.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 11
+        },
+        {
+          "test_depth_range_m": [
+            21.15,
+            21.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 6
+        },
+        {
+          "test_depth_range_m": [
+            22.15,
+            22.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            23.15,
+            23.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            24.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            25.0
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            26.0,
+            26.45
+          ],
+          "blow_counts_0_10cm": [
+            0,
+            35
+          ],
+          "blow_counts_10_20cm": [
+            1,
+            45
+          ],
+          "blow_counts_20_30cm": 45,
+          "penetration_cm": 45,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            27.0,
+            27.45
+          ],
+          "blow_counts_0_10cm": [
+            0,
+            35
+          ],
+          "blow_counts_10_20cm": [
+            1,
+            45
+          ],
+          "blow_counts_20_30cm": 45,
+          "penetration_cm": 45,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            28.15,
+            28.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            29.15,
+            29.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            30.15,
+            30.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            31.15,
+            31.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 6
+        },
+        {
+          "test_depth_range_m": [
+            32.15,
+            32.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            33.15,
+            33.45
+          ],
+          "blow_counts_0_10cm": 10,
+          "blow_counts_10_20cm": 13,
+          "blow_counts_20_30cm": 13,
+          "penetration_cm": 30,
+          "n_value": 36
+        },
+        {
+          "test_depth_range_m": [
+            34.15,
+            34.39
+          ],
+          "blow_counts_0_10cm": 12,
+          "blow_counts_10_20cm": 24,
+          "blow_counts_20_30cm": [
+            24,
+            4
+          ],
+          "penetration_cm": 24,
+          "n_value": 75
+        },
+        {
+          "test_depth_range_m": [
+            35.15,
+            35.43
+          ],
+          "blow_counts_0_10cm": 16,
+          "blow_counts_10_20cm": 25,
+          "blow_counts_20_30cm": [
+            19,
+            8
+          ],
+          "penetration_cm": 28,
+          "n_value": 64
+        },
+        {
+          "test_depth_range_m": [
+            36.15,
+            36.35
+          ],
+          "blow_counts_0_10cm": 24,
+          "blow_counts_10_20cm": 36,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 20,
+          "n_value": 90
+        },
+        {
+          "test_depth_range_m": [
+            37.15,
+            37.45
+          ],
+          "blow_counts_0_10cm": 13,
+          "blow_counts_10_20cm": 17,
+          "blow_counts_20_30cm": 21,
+          "penetration_cm": 30,
+          "n_value": 51
+        },
+        {
+          "test_depth_range_m": [
+            38.15,
+            38.45
+          ],
+          "blow_counts_0_10cm": 10,
+          "blow_counts_10_20cm": 11,
+          "blow_counts_20_30cm": 12,
+          "penetration_cm": 30,
+          "n_value": 33
+        },
+        {
+          "test_depth_range_m": [
+            39.15,
+            39.45
+          ],
+          "blow_counts_0_10cm": 12,
+          "blow_counts_10_20cm": 10,
+          "blow_counts_20_30cm": 10,
+          "penetration_cm": 30,
+          "n_value": 32
+        },
+        {
+          "test_depth_range_m": [
+            40.15,
+            40.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 9
+        },
+        {
+          "test_depth_range_m": [
+            41.15,
+            41.45
+          ],
+          "blow_counts_0_10cm": 7,
+          "blow_counts_10_20cm": 6,
+          "blow_counts_20_30cm": 7,
+          "penetration_cm": 30,
+          "n_value": 20
+        },
+        {
+          "test_depth_range_m": [
+            42.15,
+            42.45
+          ],
+          "blow_counts_0_10cm": 6,
+          "blow_counts_10_20cm": 11,
+          "blow_counts_20_30cm": 14,
+          "penetration_cm": 30,
+          "n_value": 31
+        },
+        {
+          "test_depth_range_m": [
+            43.15,
+            43.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 8
+        },
+        {
+          "test_depth_range_m": [
+            44.15,
+            44.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 6,
+          "penetration_cm": 30,
+          "n_value": 15
+        },
+        {
+          "test_depth_range_m": [
+            45.15,
+            45.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 7,
+          "blow_counts_20_30cm": 10,
+          "penetration_cm": 30,
+          "n_value": 20
+        },
+        {
+          "test_depth_range_m": [
+            46.15,
+            46.45
+          ],
+          "blow_counts_0_10cm": 8,
+          "blow_counts_10_20cm": 8,
+          "blow_counts_20_30cm": 8,
+          "penetration_cm": 30,
+          "n_value": 24
+        },
+        {
+          "test_depth_range_m": [
+            47.15,
+            47.45
+          ],
+          "blow_counts_0_10cm": 6,
+          "blow_counts_10_20cm": 8,
+          "blow_counts_20_30cm": 10,
+          "penetration_cm": 30,
+          "n_value": 24
+        },
+        {
+          "test_depth_range_m": [
+            48.15,
+            48.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 7,
+          "penetration_cm": 30,
+          "n_value": 16
+        },
+        {
+          "test_depth_range_m": [
+            49.15,
+            49.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 5,
+          "penetration_cm": 30,
+          "n_value": 10
+        },
+        {
+          "test_depth_range_m": [
+            50.15,
+            50.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 7
+        }
+      ],
+      "header_fall_back": false,
+      "soil_fall_back": false,
+      "spt_fall_back": false,
+      "_usage": {
+        "input_tokens": 4086,
+        "output_tokens": 8729,
+        "total_tokens": 12909
+      }
+    },
+    {
+      "header_info": {
+        "investigation_name": "（仮称）ネクステージ和歌山２　地質調査",
+        "project_name": null,
+        "borehole_no": "Ｎｏ．１’",
+        "sheet_no": null,
+        "location": "和歌山県和歌山市小雑賀７４８",
+        "client": "株式会社　ネクステージ",
+        "contractor": "株式会社　トラバース",
+        "chief_engineer": "三岡　誠",
+        "investigation_period_start": "2021-08-06",
+        "investigation_period_end": "2021-08-06",
+        "collar_elevation_el_m": null,
+        "total_depth_m": 18.85,
+        "drilling_machine": "ＹＢＭ－０５ＤＡ－２ＣＨ型",
+        "engine": "ヤンマーＮＳ９５",
+        "hammer_device": "自動落下装置",
+        "pump": "カノ－Ｖ－５Ｐ"
+      },
+      "soil_layers": [
+        {
+          "start_depth_m": 0,
+          "end_depth_m": 3.7,
+          "layer_thickness_m": 3.7,
+          "soil_classification": "盛土",
+          "color": null,
+          "description": null
+        },
+        {
+          "start_depth_m": 3.7,
+          "end_depth_m": 6.75,
+          "layer_thickness_m": 3.05,
+          "soil_classification": "砂",
+          "color": null,
+          "description": null
+        },
+        {
+          "start_depth_m": 6.75,
+          "end_depth_m": 8.9,
+          "layer_thickness_m": 2.15,
+          "soil_classification": "シルト質砂",
+          "color": null,
+          "description": null
+        },
+        {
+          "start_depth_m": 8.9,
+          "end_depth_m": 9.8,
+          "layer_thickness_m": 0.9,
+          "soil_classification": "シルト混り砂",
+          "color": null,
+          "description": null
+        },
+        {
+          "start_depth_m": 9.8,
+          "end_depth_m": 12.75,
+          "layer_thickness_m": 2.95,
+          "soil_classification": "砂質シルト",
+          "color": null,
+          "description": null
+        },
+        {
+          "start_depth_m": 12.75,
+          "end_depth_m": 18.85,
+          "layer_thickness_m": 6.1,
+          "soil_classification": "シルト質粘土",
+          "color": null,
+          "description": null
+        }
+      ],
+      "spt_tests": [],
+      "header_fall_back": false,
+      "soil_fall_back": false,
+      "spt_fall_back": false,
+      "_usage": {
+        "input_tokens": 5676,
+        "output_tokens": 794,
+        "total_tokens": 6864
+      }
+    },
+    {
+      "header_info": {
+        "investigation_name": "(仮称)ネクステージ和歌山2　地質調査",
+        "project_name": null,
+        "borehole_no": "No. 2",
+        "sheet_no": null,
+        "location": "和歌山県和歌山市小雑賀７４８",
+        "client": "株式会社　ネクステージ",
+        "contractor": "株式会社　トラバース",
+        "chief_engineer": "三岡　誠",
+        "investigation_period_start": "2021-07-30",
+        "investigation_period_end": "2021-08-04",
+        "collar_elevation_el_m": 0.2,
+        "total_depth_m": 44.5,
+        "drilling_machine": "YBM-05DA-2CH型",
+        "engine": "ヤンマーNS95",
+        "hammer_device": "自動落下装置",
+        "pump": "カノ-V-5P"
+      },
+      "soil_layers": [
+        {
+          "start_depth_m": 0,
+          "end_depth_m": 2.9,
+          "layer_thickness_m": 2.9,
+          "soil_classification": "盛土",
+          "color": "淡灰",
+          "description": "砂礫、砂は細、中砂。φ50mm内の角礫、亜角礫主体。φ80mm内の玉石、コンクリートガラ点在。\nGL-0.80m以深、細、中砂主体。部分的にφ30mm内の角礫、亜角礫混入。\nGL-1.20m以深、部分的に粘性土混入。\nGL-1.80m以深、細砂主体。全体に粘性土混入。"
+        },
+        {
+          "start_depth_m": 2.9,
+          "end_depth_m": 8.0,
+          "layer_thickness_m": 5.1,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。含水量少ない。\nGL-6.00m以深、φ10mm内の亜角礫点在。少量のシルト混入。\nGL-7.00m以深、細、中砂主体。貝殻混入。"
+        },
+        {
+          "start_depth_m": 8.0,
+          "end_depth_m": 8.85,
+          "layer_thickness_m": 0.85,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体、全体にシルト含有。腐植物、貝殻点在。含水量少ない。"
+        },
+        {
+          "start_depth_m": 8.85,
+          "end_depth_m": 9.5,
+          "layer_thickness_m": 0.65,
+          "soil_classification": "シルト混り砂",
+          "color": "淡灰",
+          "description": "細砂主体、部分的にシルト混入。含水量少ない。"
+        },
+        {
+          "start_depth_m": 9.5,
+          "end_depth_m": 13.75,
+          "layer_thickness_m": 4.25,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "粘性弱い。全体に細砂含有。\nGL-11.00m以深、貝殻、腐植物点在。"
+        },
+        {
+          "start_depth_m": 13.75,
+          "end_depth_m": 17.85,
+          "layer_thickness_m": 4.1,
+          "soil_classification": "シルト質粘土",
+          "color": "淡灰",
+          "description": "粘性中位。\n全体にシルト含有。\n貝殻点在。"
+        },
+        {
+          "start_depth_m": 17.85,
+          "end_depth_m": 21.1,
+          "layer_thickness_m": 3.25,
+          "soil_classification": "礫混り砂",
+          "color": "淡青灰〜暗青灰",
+          "description": "細、中砂主体、部分的にφ20mm内の角礫、亜角礫混入。含水量少ない。\nGL-20.00m付近、少量の粘土混入。"
+        },
+        {
+          "start_depth_m": 21.1,
+          "end_depth_m": 21.8,
+          "layer_thickness_m": 0.7,
+          "soil_classification": "砂",
+          "color": "暗青灰",
+          "description": "細砂主体。含水量少〜中位。"
+        },
+        {
+          "start_depth_m": 21.8,
+          "end_depth_m": 24.75,
+          "layer_thickness_m": 2.95,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。含水量少ない。"
+        },
+        {
+          "start_depth_m": 24.75,
+          "end_depth_m": 25.8,
+          "layer_thickness_m": 1.05,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "非常に粘性弱い。全体に細砂含有。\nGL-25.00m以深、腐植物点在。"
+        },
+        {
+          "start_depth_m": 25.8,
+          "end_depth_m": 29.8,
+          "layer_thickness_m": 4.0,
+          "soil_classification": "シルト質粘土",
+          "color": "淡灰〜灰",
+          "description": "粘性中位。\n全体にシルト含有。"
+        },
+        {
+          "start_depth_m": 29.8,
+          "end_depth_m": 35.65,
+          "layer_thickness_m": 5.85,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰〜灰",
+          "description": "粘性弱い。全体に細砂含有。\nGL-32.00m付近、φ5mm内の細礫、少量の貝殻点在。\nGL-33.00m付近、少量の腐植物点在。\nGL-34.00m付近、部分的に固結状。\nGL-35.00m付近、φ5mm内の亜角礫点在。"
+        },
+        {
+          "start_depth_m": 35.65,
+          "end_depth_m": 40.9,
+          "layer_thickness_m": 5.25,
+          "soil_classification": "砂礫",
+          "color": "暗青灰〜淡灰",
+          "description": "砂は細、中砂。\nφ30mm内の角礫、亜角礫主体。\n含水量少ない。\nGL-40.00m付近、φ10mm内の角礫、亜角礫主体。"
+        },
+        {
+          "start_depth_m": 40.9,
+          "end_depth_m": 41.35,
+          "layer_thickness_m": 0.45,
+          "soil_classification": "砂質シルト",
+          "color": "暗青灰",
+          "description": "粘性弱い。全体に細砂含有。"
+        },
+        {
+          "start_depth_m": 41.35,
+          "end_depth_m": 42.2,
+          "layer_thickness_m": 0.85,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。含水量少ない。"
+        },
+        {
+          "start_depth_m": 42.2,
+          "end_depth_m": 44.5,
+          "layer_thickness_m": 2.3,
+          "soil_classification": "礫混り砂",
+          "color": "淡灰",
+          "description": "細、中砂主体、不規則にφ20mm内の角礫、亜角礫混入。含水量少ない。"
+        }
+      ],
+      "spt_tests": [
+        {
+          "test_depth_range_m": [
+            0.15,
+            0.45
+          ],
+          "blow_counts_0_10cm": 7,
+          "blow_counts_10_20cm": 13,
+          "blow_counts_20_30cm": 11,
+          "penetration_cm": 30,
+          "n_value": 31
+        },
+        {
+          "test_depth_range_m": [
+            1.15,
+            1.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 6
+        },
+        {
+          "test_depth_range_m": [
+            2.15,
+            2.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            3.15,
+            3.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 7
+        },
+        {
+          "test_depth_range_m": [
+            4.15,
+            4.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 6,
+          "penetration_cm": 30,
+          "n_value": 15
+        },
+        {
+          "test_depth_range_m": [
+            5.15,
+            5.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 9
+        },
+        {
+          "test_depth_range_m": [
+            6.15,
+            6.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 4,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 10
+        },
+        {
+          "test_depth_range_m": [
+            7.15,
+            7.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 11
+        },
+        {
+          "test_depth_range_m": [
+            8.15,
+            8.5
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 35,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            9.15,
+            9.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            10.0,
+            10.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            11.0,
+            11.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            12.0,
+            12.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            13.0,
+            13.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            14.0,
+            14.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            15.0,
+            15.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            16.0,
+            16.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            17.0,
+            17.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            18.15,
+            18.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 6,
+          "penetration_cm": 30,
+          "n_value": 15
+        },
+        {
+          "test_depth_range_m": [
+            19.15,
+            19.45
+          ],
+          "blow_counts_0_10cm": 7,
+          "blow_counts_10_20cm": 8,
+          "blow_counts_20_30cm": 11,
+          "penetration_cm": 30,
+          "n_value": 26
+        },
+        {
+          "test_depth_range_m": [
+            20.15,
+            20.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 10
+        },
+        {
+          "test_depth_range_m": [
+            21.15,
+            21.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            22.15,
+            22.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            23.15,
+            23.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            24.15,
+            24.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 1,
+          "penetration_cm": 30,
+          "n_value": 3
+        },
+        {
+          "test_depth_range_m": [
+            25.15,
+            25.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 30,
+          "n_value": 2
+        },
+        {
+          "test_depth_range_m": [
+            26.0,
+            26.45
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            26.45,
+            26.9
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            27.0,
+            27.45
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            28.0,
+            28.45
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            29.0,
+            29.45
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 45,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            30.15,
+            30.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            31.15,
+            31.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            32.15,
+            32.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 2,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            33.15,
+            33.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            34.15,
+            34.45
+          ],
+          "blow_counts_0_10cm": 5,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 6,
+          "penetration_cm": 30,
+          "n_value": 16
+        },
+        {
+          "test_depth_range_m": [
+            35.15,
+            35.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 9
+        },
+        {
+          "test_depth_range_m": [
+            36.15,
+            36.38
+          ],
+          "blow_counts_0_10cm": 24,
+          "blow_counts_10_20cm": 28,
+          "blow_counts_20_30cm": 8,
+          "penetration_cm": 23,
+          "n_value": 60
+        },
+        {
+          "test_depth_range_m": [
+            37.15,
+            37.45
+          ],
+          "blow_counts_0_10cm": 16,
+          "blow_counts_10_20cm": 14,
+          "blow_counts_20_30cm": 10,
+          "penetration_cm": 30,
+          "n_value": 40
+        },
+        {
+          "test_depth_range_m": [
+            38.15,
+            38.37
+          ],
+          "blow_counts_0_10cm": 27,
+          "blow_counts_10_20cm": 28,
+          "blow_counts_20_30cm": [
+            5,
+            2
+          ],
+          "penetration_cm": 22,
+          "n_value": 82
+        },
+        {
+          "test_depth_range_m": [
+            39.15,
+            39.45
+          ],
+          "blow_counts_0_10cm": 18,
+          "blow_counts_10_20cm": 19,
+          "blow_counts_20_30cm": 18,
+          "penetration_cm": 30,
+          "n_value": 55
+        },
+        {
+          "test_depth_range_m": [
+            40.15,
+            40.45
+          ],
+          "blow_counts_0_10cm": 12,
+          "blow_counts_10_20cm": 10,
+          "blow_counts_20_30cm": 11,
+          "penetration_cm": 30,
+          "n_value": 33
+        },
+        {
+          "test_depth_range_m": [
+            41.15,
+            41.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 11
+        },
+        {
+          "test_depth_range_m": [
+            42.15,
+            42.45
+          ],
+          "blow_counts_0_10cm": 11,
+          "blow_counts_10_20cm": 18,
+          "blow_counts_20_30cm": 22,
+          "penetration_cm": 30,
+          "n_value": 51
+        },
+        {
+          "test_depth_range_m": [
+            43.15,
+            43.45
+          ],
+          "blow_counts_0_10cm": 18,
+          "blow_counts_10_20cm": 19,
+          "blow_counts_20_30cm": 19,
+          "penetration_cm": 30,
+          "n_value": 56
+        },
+        {
+          "test_depth_range_m": [
+            44.15,
+            44.45
+          ],
+          "blow_counts_0_10cm": 16,
+          "blow_counts_10_20cm": 18,
+          "blow_counts_20_30cm": 18,
+          "penetration_cm": 30,
+          "n_value": 52
+        }
+      ],
+      "header_fall_back": false,
+      "soil_fall_back": false,
+      "spt_fall_back": false,
+      "_usage": {
+        "input_tokens": 4086,
+        "output_tokens": 7918,
+        "total_tokens": 21383
+      }
+    },
+    {
+      "header_info": {
+        "investigation_name": "（仮称）ネクステージ和歌山２　地質調査",
+        "project_name": null,
+        "borehole_no": "No.3",
+        "sheet_no": null,
+        "location": "和歌山県和歌山市小雑賀７４８",
+        "client": "株式会社　ネクステージ",
+        "contractor": "株式会社　トラバース\n電話（０７２－８１８－５５２２）",
+        "chief_engineer": "三岡　　誠",
+        "investigation_period_start": "2021-08-04",
+        "investigation_period_end": "2021-08-05",
+        "collar_elevation_el_m": 0.12,
+        "total_depth_m": 20.5,
+        "drilling_machine": "ＹＢＭ－０５ＤＡ－２ＣＨ型",
+        "engine": "ヤンマーＮＳ９５",
+        "hammer_device": "自動落下装置",
+        "pump": "カノ－Ｖ－５Ｐ"
+      },
+      "soil_layers": [
+        {
+          "start_depth_m": 0,
+          "end_depth_m": 2.4,
+          "layer_thickness_m": 2.4,
+          "soil_classification": "盛土",
+          "color": "淡灰",
+          "description": "アスファルト。\nGL-0.03m以深、細、中砂主体。全体にφ20mm内の角礫、亜角礫混入。\nGL-1.10m以深、細砂主体。全体に粘性土混入。"
+        },
+        {
+          "start_depth_m": 2.4,
+          "end_depth_m": 6.75,
+          "layer_thickness_m": 4.35,
+          "soil_classification": "砂",
+          "color": "淡灰",
+          "description": "細砂主体。\n含水量少ない。\nGL-6.00m付近、少量の腐植物点在。"
+        },
+        {
+          "start_depth_m": 6.75,
+          "end_depth_m": 7.8,
+          "layer_thickness_m": 1.05,
+          "soil_classification": "シルト質砂",
+          "color": "淡灰",
+          "description": "細砂主体。全体にシルト含有。含水量少ない。"
+        },
+        {
+          "start_depth_m": 7.8,
+          "end_depth_m": 13.6,
+          "layer_thickness_m": 5.8,
+          "soil_classification": "砂質シルト",
+          "color": "淡灰",
+          "description": "粘性弱い。\n全体に細砂含有。\nGL-11.00m以深、貝殻点在。\n少量の腐植物点在。"
+        },
+        {
+          "start_depth_m": 13.6,
+          "end_depth_m": 18.9,
+          "layer_thickness_m": 5.3,
+          "soil_classification": "シルト質粘土",
+          "color": "淡灰",
+          "description": "粘性中位。\n全体にシルト含有。\n貝殻点在。"
+        },
+        {
+          "start_depth_m": 18.9,
+          "end_depth_m": 19.8,
+          "layer_thickness_m": 0.9,
+          "soil_classification": "砂質粘土",
+          "color": "暗茶灰",
+          "description": "粘性弱い。全体に細砂含有。腐植物点在。"
+        },
+        {
+          "start_depth_m": 19.8,
+          "end_depth_m": 20.5,
+          "layer_thickness_m": 0.7,
+          "soil_classification": "粘土質砂",
+          "color": "暗茶灰",
+          "description": "細砂主体。全体に粘土含有。腐植物点在。含水量少ない。"
+        }
+      ],
+      "spt_tests": [
+        {
+          "test_depth_range_m": [
+            1.15,
+            1.45
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            30
+          ],
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 30,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            2.15,
+            2.45
+          ],
+          "blow_counts_0_10cm": 1,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 4
+        },
+        {
+          "test_depth_range_m": [
+            3.15,
+            3.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 4,
+          "blow_counts_20_30cm": 5,
+          "penetration_cm": 30,
+          "n_value": 13
+        },
+        {
+          "test_depth_range_m": [
+            4.15,
+            4.45
+          ],
+          "blow_counts_0_10cm": 5,
+          "blow_counts_10_20cm": 7,
+          "blow_counts_20_30cm": 7,
+          "penetration_cm": 30,
+          "n_value": 19
+        },
+        {
+          "test_depth_range_m": [
+            5.15,
+            5.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 5,
+          "blow_counts_20_30cm": 5,
+          "penetration_cm": 30,
+          "n_value": 14
+        },
+        {
+          "test_depth_range_m": [
+            6.15,
+            6.45
+          ],
+          "blow_counts_0_10cm": 4,
+          "blow_counts_10_20cm": 4,
+          "blow_counts_20_30cm": 3,
+          "penetration_cm": 30,
+          "n_value": 11
+        },
+        {
+          "test_depth_range_m": [
+            7.15,
+            7.45
+          ],
+          "blow_counts_0_10cm": [
+            1,
+            30
+          ],
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 30,
+          "n_value": 1
+        },
+        {
+          "test_depth_range_m": [
+            8.0,
+            8.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            9.0,
+            9.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            10.0,
+            10.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            11.0,
+            11.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            12.0,
+            12.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            13.0,
+            13.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            14.0,
+            14.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            15.0,
+            15.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            16.0,
+            16.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            17.0,
+            17.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            18.0,
+            18.5
+          ],
+          "blow_counts_0_10cm": null,
+          "blow_counts_10_20cm": null,
+          "blow_counts_20_30cm": null,
+          "penetration_cm": 50,
+          "n_value": 0
+        },
+        {
+          "test_depth_range_m": [
+            19.15,
+            19.45
+          ],
+          "blow_counts_0_10cm": 2,
+          "blow_counts_10_20cm": 1,
+          "blow_counts_20_30cm": 2,
+          "penetration_cm": 30,
+          "n_value": 5
+        },
+        {
+          "test_depth_range_m": [
+            20.15,
+            20.45
+          ],
+          "blow_counts_0_10cm": 3,
+          "blow_counts_10_20cm": 3,
+          "blow_counts_20_30cm": 4,
+          "penetration_cm": 30,
+          "n_value": 10
+        }
+      ],
+      "header_fall_back": false,
+      "soil_fall_back": false,
+      "spt_fall_back": false,
+      "_usage": {
+        "input_tokens": 5660,
+        "output_tokens": 3101,
+        "total_tokens": 9101
+      }
+    }
+  ]
+}

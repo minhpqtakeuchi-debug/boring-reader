@@ -1,0 +1,43 @@
+{
+  "gem3_batch_name": "batches/sj3aehyr501ja7nz1rmfo1uamktqea1lntod",
+  "flash_batch_name": "batches/0z632vw454a9go6wyxex6boumcy3obp4ul5c",
+  "region_infos": [
+    {
+      "img_idx": 0,
+      "label": "header_region",
+      "g3_index": 0,
+      "flash_index": 0
+    },
+    {
+      "img_idx": 0,
+      "label": "soil_region",
+      "g3_index": 1,
+      "flash_index": 1
+    },
+    {
+      "img_idx": 0,
+      "label": "spt_region",
+      "g3_index": 2,
+      "flash_index": 2
+    },
+    {
+      "img_idx": 1,
+      "label": "header_region",
+      "g3_index": 3,
+      "flash_index": 3
+    },
+    {
+      "img_idx": 1,
+      "label": "soil_region",
+      "g3_index": 4,
+      "flash_index": 4
+    },
+    {
+      "img_idx": 1,
+      "label": "spt_region",
+      "g3_index": 5,
+      "flash_index": 5
+    }
+  ],
+  "num_images": 2
+}

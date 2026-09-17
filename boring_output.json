@@ -1,0 +1,323 @@
+{
+  "header_info": {
+    "investigation_name": "(仮称) オーディフ学校給食調理場新築工事",
+    "project_name": null,
+    "borehole_no": "B-1",
+    "sheet_no": 1,
+    "location": "沖縄県南城市字古堅658-1、659-1、660、661-2",
+    "client": "株式会社オーディフ",
+    "contractor": "前田商事有限会社",
+    "chief_engineer": null,
+    "investigation_period_start": "2023-11-10",
+    "investigation_period_end": "2023-11-13",
+    "collar_elevation_el_m": 27.8,
+    "total_depth_m": 21.3,
+    "drilling_machine": "YBM-05DA-2",
+    "engine": "NFAD8",
+    "hammer_device": "半自動",
+    "pump": "NSX401"
+  },
+  "soil_layers": [
+    {
+      "start_depth_m": 0.0,
+      "end_depth_m": 2.0,
+      "layer_thickness_m": 2.0,
+      "soil_classification": "埋土（粘土）",
+      "color": "灰褐",
+      "description": "泥岩を由来とする粘土を主体とする埋土。少量の泥岩土地細片、琉球石灰岩礫を混入する。概ね均質で中塑性、中含水比の粘性土を呈する。"
+    },
+    {
+      "start_depth_m": 2.0,
+      "end_depth_m": 3.0,
+      "layer_thickness_m": 1.0,
+      "soil_classification": "粘土",
+      "color": "灰褐",
+      "description": "崩積土。泥岩を由来とする高塑性、中〜高含水比の粘性土。概ね均質な粘土を呈する。腐植物を混入し、臭気を放つ。"
+    },
+    {
+      "start_depth_m": 3.0,
+      "end_depth_m": 8.0,
+      "layer_thickness_m": 5.0,
+      "soil_classification": "風化泥岩",
+      "color": "褐灰",
+      "description": "第三紀島尻層群風化泥岩。風化によって軟質化を進行する。中含水比。"
+    },
+    {
+      "start_depth_m": 8.0,
+      "end_depth_m": 15.8,
+      "layer_thickness_m": 7.8,
+      "soil_classification": "弱風化泥岩",
+      "color": "暗灰",
+      "description": "第三紀島尻層群弱風化泥岩。風化によってやや軟質化を進行する。原色の暗灰色を呈する。低含水比。"
+    },
+    {
+      "start_depth_m": 15.8,
+      "end_depth_m": 21.3,
+      "layer_thickness_m": 5.5,
+      "soil_classification": "泥岩",
+      "color": "暗灰",
+      "description": "第三紀島尻層群弱風化泥岩。堅硬な固結度を呈する新鮮岩。原色の暗灰色を呈する。少量の白色微細な有孔虫遺骸を混入する。低含水比。"
+    }
+  ],
+  "spt_tests": [
+    {
+      "test_depth_range_m": [
+        0.5,
+        0.8
+      ],
+      "blow_counts_0_10cm": 2,
+      "blow_counts_10_20cm": 2,
+      "blow_counts_20_30cm": 3,
+      "penetration_cm": 30,
+      "n_value": 7
+    },
+    {
+      "test_depth_range_m": [
+        0.8,
+        1.1
+      ],
+      "blow_counts_0_10cm": 2,
+      "blow_counts_10_20cm": 2,
+      "blow_counts_20_30cm": 1,
+      "penetration_cm": 30,
+      "n_value": 5
+    },
+    {
+      "test_depth_range_m": [
+        1.15,
+        1.45
+      ],
+      "blow_counts_0_10cm": 2,
+      "blow_counts_10_20cm": 2,
+      "blow_counts_20_30cm": 1,
+      "penetration_cm": 30,
+      "n_value": 5
+    },
+    {
+      "test_depth_range_m": [
+        2.15,
+        2.45
+      ],
+      "blow_counts_0_10cm": 2,
+      "blow_counts_10_20cm": 1,
+      "blow_counts_20_30cm": 1,
+      "penetration_cm": 30,
+      "n_value": 4
+    },
+    {
+      "test_depth_range_m": [
+        3.15,
+        3.45
+      ],
+      "blow_counts_0_10cm": 7,
+      "blow_counts_10_20cm": 8,
+      "blow_counts_20_30cm": 12,
+      "penetration_cm": 30,
+      "n_value": 27
+    },
+    {
+      "test_depth_range_m": [
+        4.15,
+        4.45
+      ],
+      "blow_counts_0_10cm": 8,
+      "blow_counts_10_20cm": 11,
+      "blow_counts_20_30cm": 12,
+      "penetration_cm": 30,
+      "n_value": 31
+    },
+    {
+      "test_depth_range_m": [
+        5.15,
+        5.45
+      ],
+      "blow_counts_0_10cm": 9,
+      "blow_counts_10_20cm": 11,
+      "blow_counts_20_30cm": 12,
+      "penetration_cm": 30,
+      "n_value": 32
+    },
+    {
+      "test_depth_range_m": [
+        6.15,
+        6.45
+      ],
+      "blow_counts_0_10cm": 9,
+      "blow_counts_10_20cm": 11,
+      "blow_counts_20_30cm": 12,
+      "penetration_cm": 30,
+      "n_value": 32
+    },
+    {
+      "test_depth_range_m": [
+        7.15,
+        7.45
+      ],
+      "blow_counts_0_10cm": 8,
+      "blow_counts_10_20cm": 7,
+      "blow_counts_20_30cm": 9,
+      "penetration_cm": 30,
+      "n_value": 24
+    },
+    {
+      "test_depth_range_m": [
+        8.15,
+        8.45
+      ],
+      "blow_counts_0_10cm": 10,
+      "blow_counts_10_20cm": 16,
+      "blow_counts_20_30cm": 17,
+      "penetration_cm": 30,
+      "n_value": 43
+    },
+    {
+      "test_depth_range_m": [
+        9.15,
+        9.45
+      ],
+      "blow_counts_0_10cm": 13,
+      "blow_counts_10_20cm": 15,
+      "blow_counts_20_30cm": 17,
+      "penetration_cm": 30,
+      "n_value": 45
+    },
+    {
+      "test_depth_range_m": [
+        10.15,
+        10.42
+      ],
+      "blow_counts_0_10cm": 14,
+      "blow_counts_10_20cm": 20,
+      "blow_counts_20_30cm": 16,
+      "penetration_cm": 27,
+      "n_value": 56
+    },
+    {
+      "test_depth_range_m": [
+        11.15,
+        11.45
+      ],
+      "blow_counts_0_10cm": 15,
+      "blow_counts_10_20cm": 17,
+      "blow_counts_20_30cm": 18,
+      "penetration_cm": 30,
+      "n_value": 50
+    },
+    {
+      "test_depth_range_m": [
+        12.15,
+        12.45
+      ],
+      "blow_counts_0_10cm": 9,
+      "blow_counts_10_20cm": 10,
+      "blow_counts_20_30cm": 12,
+      "penetration_cm": 30,
+      "n_value": 31
+    },
+    {
+      "test_depth_range_m": [
+        13.15,
+        13.45
+      ],
+      "blow_counts_0_10cm": 12,
+      "blow_counts_10_20cm": 13,
+      "blow_counts_20_30cm": 15,
+      "penetration_cm": 30,
+      "n_value": 40
+    },
+    {
+      "test_depth_range_m": [
+        14.15,
+        14.45
+      ],
+      "blow_counts_0_10cm": 12,
+      "blow_counts_10_20cm": 13,
+      "blow_counts_20_30cm": 16,
+      "penetration_cm": 30,
+      "n_value": 41
+    },
+    {
+      "test_depth_range_m": [
+        15.15,
+        15.45
+      ],
+      "blow_counts_0_10cm": 11,
+      "blow_counts_10_20cm": 16,
+      "blow_counts_20_30cm": 19,
+      "penetration_cm": 30,
+      "n_value": 46
+    },
+    {
+      "test_depth_range_m": [
+        16.15,
+        16.45
+      ],
+      "blow_counts_0_10cm": 11,
+      "blow_counts_10_20cm": 19,
+      "blow_counts_20_30cm": 20,
+      "penetration_cm": 30,
+      "n_value": 50
+    },
+    {
+      "test_depth_range_m": [
+        17.15,
+        17.35
+      ],
+      "blow_counts_0_10cm": 24,
+      "blow_counts_10_20cm": 26,
+      "blow_counts_20_30cm": null,
+      "penetration_cm": 20,
+      "n_value": 75
+    },
+    {
+      "test_depth_range_m": [
+        18.15,
+        18.42
+      ],
+      "blow_counts_0_10cm": 14,
+      "blow_counts_10_20cm": 23,
+      "blow_counts_20_30cm": [
+        13,
+        7
+      ],
+      "penetration_cm": 27,
+      "n_value": 56
+    },
+    {
+      "test_depth_range_m": [
+        19.15,
+        19.32
+      ],
+      "blow_counts_0_10cm": 25,
+      "blow_counts_10_20cm": 25,
+      "blow_counts_20_30cm": [
+        null,
+        7
+      ],
+      "penetration_cm": 17,
+      "n_value": 88
+    },
+    {
+      "test_depth_range_m": [
+        20.1,
+        20.3
+      ],
+      "blow_counts_0_10cm": 21,
+      "blow_counts_10_20cm": 29,
+      "blow_counts_20_30cm": null,
+      "penetration_cm": 20,
+      "n_value": 75
+    },
+    {
+      "test_depth_range_m": [
+        21.1,
+        21.3
+      ],
+      "blow_counts_0_10cm": 19,
+      "blow_counts_10_20cm": 31,
+      "blow_counts_20_30cm": null,
+      "penetration_cm": 20,
+      "n_value": 75
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Compare the result in the given json with the image that it is extracted from. 
+Return the json with updated value if there are errors else return the json as it is.
